@@ -4,7 +4,7 @@ import java.util.*;
 
 public class TreeDataCounter<E> extends DataCounterAbsCls<E> {
 
-	//AF: {<el,n_els> : n_els == #numero oggetti el, el == oggetto di tipo E, el è in tree.keySet() }
+	//AF: {<el,n_els> : n_els == #numero oggetti el, el == oggetto di tipo E, el Ã¨ in tree.keySet() }
 	/*
 	IR: 
 	tree != null 
