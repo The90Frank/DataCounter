@@ -4,7 +4,7 @@ import java.util.*;
 
 public class HashDataCounter<E> extends DataCounterAbsCls<E> {
 	
-	//AF: {<el,n_els> : n_els == #numero oggetti el, el == oggetto di tipo E, el è in dict.keySet() }
+	//AF: {<el,n_els> : n_els == #numero oggetti el, el == oggetto di tipo E, el Ã¨ in dict.keySet() }
 	/*
 	IR: 
 	dict != null 
