@@ -16,7 +16,7 @@ public interface DataCounter<E> extends Iterable<E> {
 	//EFFECTS: ritorna il numero di elementi presenti nel dizionario
 	
 	public int getCount(E data);
-	//EFFECTS: se n==null solleva una NullPointerException (unchecked, presente in Java),
+	//EFFECTS: se data==null solleva una NullPointerException (unchecked, presente in Java),
 	//ritorna il contatore relativo all'elemento data, 0 se non è presente
 	
 	public Iterator<E> iterator();
