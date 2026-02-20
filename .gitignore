@@ -1,0 +1,18 @@
+# IDE and editor settings
+.vscode/
+.claude/
+.idea/
+*.swp
+*.swo
+*~
+
+# Java build artifacts
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# OS files
+.DS_Store
+Thumbs.db
